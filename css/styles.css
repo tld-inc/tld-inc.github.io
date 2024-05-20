@@ -11,3 +11,17 @@
     color: #7c76bb;
     font-weight: 600;
 }
+
+.cards {
+    justify-content: center;
+}
+
+.py-5 {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+.pb-5 {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
