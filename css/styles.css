@@ -33,3 +33,11 @@
     padding-top: 2rem !important;
     padding-bottom: 2rem !important;
 }
+
+.img-expertise {
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
